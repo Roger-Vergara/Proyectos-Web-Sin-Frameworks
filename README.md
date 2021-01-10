@@ -1,4 +1,6 @@
-# Bienvenido, aqui pueden ver proyectos personales realizados por mi 
-# sin marcos de trabajo con las herramientas: 
+# Bienvenido, aqui pueden ver proyectos personales en entorno web realizados por mi 
 
-#  - HTML5-CSS3-JAVASCRIPT-PHP-SQL-MYSQL -
+  Sin utilizar marcos de trabajo para desmostrar mis conocimientos con 
+  las herramientas: 
+
+# - HTML5-CSS3-JAVASCRIPT-PHP-SQL-MYSQL -
