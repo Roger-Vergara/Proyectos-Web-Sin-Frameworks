@@ -1,6 +1,4 @@
-# Bienvenido, aqui pueden ver proyectos personales de desarrollo web realizados por mi 
+## Previsualización
 
-  Sin utilizar marcos de trabajo para desmostrar mis conocimientos con 
-  las herramientas: 
-
-# - html5-css3-javaScritpt-php-sql-mysql-phpmyadmin
+![Imagen del programa]
+(https://github.com/Roger-Vergara/Proyectos-Web-Sin-Frameworks/blob/main/Phones%20Market/Fotos%20del%20Sitio/captura-1.png)
