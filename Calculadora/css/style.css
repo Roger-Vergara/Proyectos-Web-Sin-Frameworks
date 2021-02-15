@@ -1,0 +1,73 @@
+* {
+	margin:0;
+	padding:0; 
+	font-family: 'Roboto', sans-serif; 
+	transition:50ms ease-in-out; 
+}
+
+body {
+	background-color:#bcb8bb;
+}
+
+.contenedor {
+	margin-top:auto; 
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px; 
+	width:100%;    
+}
+
+.tabla {
+	margin: auto;
+	text-align:center; 
+	background-color:#161616;
+}
+
+td {
+	color:#b3b3b3;
+	background-color:#2f2f2f; 
+	padding:15px; 
+}
+
+.pantalla_peq {
+	background-color:#161616; 
+	color:#e4e4e4; 
+	width:300px; 
+	text-align:right;
+	font-size:35px;
+}
+
+.pantalla_gra {
+	background-color:#161616; 
+	color:#b3b3b3;
+	font-size:20px;
+	width:300px; 
+	height:70px; 
+	text-align:right;
+}
+
+.con_botonM {
+	background-color:#161616;  
+}
+
+.botonM {
+	border-radius:2px; 
+	padding:3px; 
+	color:#161616; 
+	background-color:#b3b3b3;
+}
+
+.btn_b, .btn_masOmenos, .btn_div, .btn_por, .btn_men, .btn_mas{
+	background-color:#222222; 
+}
+
+.img-btn-borrar {
+	width:15px;
+	height:18px;  
+}
+
+.igual {
+	vertical-align:bottom;  
+	color:#000;
+	background-color:#ffc40a; 
+}
