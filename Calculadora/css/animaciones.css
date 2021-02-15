@@ -1,0 +1,19 @@
+.btn_b:hover, .btn_masOmenos:hover, .btn_div:hover, .btn_por:hover,.btn_men:hover, .btn_mas:hover  {
+	color:#fff;
+	background-color:#5d8588; 
+} 
+
+.uno:hover ,.dos:hover ,.tres:hover ,.cua:hover ,.cin:hover ,.sei:hover ,.sie:hover ,.och:hover ,.nue:hover {
+	color:#fff;
+	background-color:#5d8588; 
+}
+
+.cer:hover ,.pun:hover {
+	color:#fff;
+	background-color:#5d8588; 
+} 
+
+.igual:hover {
+	color:#fff;
+	background:#d24c0a;
+}
