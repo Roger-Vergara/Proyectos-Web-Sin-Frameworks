@@ -1,0 +1,28 @@
+
+@media(max-width:500px){
+
+	* {
+		text-align:center;
+	}
+
+	body {
+		height:100%; 
+	}
+
+	noscript {
+		width:100%; 
+		font-size:13px; 
+		height:350vh; 
+		word-break: break-all; 
+		left:0; 
+		right:0; 
+		bottom:0;
+		top:0; 
+	}
+}
+
+@media(max-height:215px){
+	noscript {
+		height:5000px; 
+	}
+}

@@ -1,0 +1,40 @@
+
+textarea:focus { /*:focus-within*/
+    outline-color:#dc8e45;
+    outline-width:1.5px;
+    outline-style: ridge;
+}
+
+main input[class="color"]:focus {
+    outline-width:0;
+}
+
+form > input:first-of-type:hover {
+    background-color:#2a4944;
+}
+
+form > input:first-of-type:focus {
+    outline-width:0;
+}
+
+ul li > input:first-of-type:hover {
+    color:#fafdfb;
+    background-color:#615a45;
+}
+
+ul li > input:first-of-type:focus {
+    outline-width:0;
+}
+
+ul li > input:first-of-type:focus {
+	outline-width:0; 
+}
+
+ul li > input:last-of-type:hover {
+    color:#fafdfb;
+    background-color:#761f27;
+}
+
+ul li > input:last-of-type:focus{
+    outline-width:0; 
+}
