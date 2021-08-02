@@ -7,6 +7,6 @@
 
 ## Deploy
 - Phones Market: https://roger-vergara.github.io/Proyectos-Web-Sin-Frameworks/Phones%20Market/Phones%20Market
-- Efecto de arrastre: https://roger-vergara.github.io/Proyectos-Web-Sin-Frameworks/efecto_arrastre.html
+- Efecto de arrastre: https://roger-vergara.github.io/Proyectos-Web-Sin-Frameworks/efecto_arrastre/efecto_arrastre.html
 - Calculadora Avanzada: https://roger-vergara.github.io/Proyectos-Web-Sin-Frameworks/Calculadora/inicio.html
 - NotasApp: http://proyectosrogervergara.000webhostapp.com/notasapp/index.php
